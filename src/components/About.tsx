@@ -3,7 +3,7 @@ const About = () => {
     <div>
       <div className="px-8 mx-auto py-24">
         <div className="flex flex-col text-center w-full mb-20">
-          <h2 className="text-4xl tracking-widest font-bold mb-4 uppercase">
+          <h2 className="text-3xl tracking-widest font-bold mb-4 uppercase">
             Наши преимущества
           </h2>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-lg mb-4">

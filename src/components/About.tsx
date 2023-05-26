@@ -20,7 +20,7 @@ const About = () => {
             <div className="w-20 h-20 inline-flex items-center justify-center rounded-full bg-white mb-5 flex-shrink-0">
               <img src="icon.png" />
             </div>
-            <p className="md:text-3xl text-2xl font-semibold mt-6">1500 м²</p>
+            <p className="md:text-3xl text-xl font-semibold mt-6">1500 м²</p>
             <br />
             <p className="md:text-xl text-lg font-normal p-14">
               Площадь спортивного клуба
@@ -30,7 +30,7 @@ const About = () => {
             <div className="w-20 h-20 inline-flex items-center justify-center rounded-full bg-white mb-5 flex-shrink-0">
               <img src="icon.png" />
             </div>
-            <p className="md:text-3xl text-2xl font-semibold mt-6">
+            <p className="lg:text-3xl text-xl font-semibold mt-6">
               Квалифицированные <br /> тренера
             </p>
             <p className="md:text-xl text-lg font-normal p-10">
@@ -42,7 +42,7 @@ const About = () => {
             <div className="w-20 h-20 inline-flex items-center justify-center rounded-full bg-white mb-5 flex-shrink-0">
               <img src="icon.png" />
             </div>
-            <p className="md:text-3xl text-2xl font-semibold mt-6">
+            <p className="lg:text-3xl text-xl font-semibold mt-6">
               Профессиональное <br /> оборудование
             </p>
             <p className="md:text-xl text-lg font-normal p-10">

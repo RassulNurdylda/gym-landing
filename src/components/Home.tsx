@@ -1,4 +1,5 @@
 import About from "./About";
+import { Info } from "./Info";
 import { Main } from "./Main";
 import { Navbar } from "./Navbar";
 
@@ -8,6 +9,7 @@ const Home = () => {
       <Navbar />
       <Main />
       <About />
+      <Info />
     </main>
   );
 };
